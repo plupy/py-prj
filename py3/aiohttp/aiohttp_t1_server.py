@@ -1,5 +1,9 @@
 # coding=utf-8
 
+# Environment requirement:
+#   Python 3.5+
+#   aiohttp
+
 from aiohttp import web
 
 async def handle(request):
